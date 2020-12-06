@@ -1,4 +1,4 @@
-package Test;
+package com.Test;
 /*阶乘求和
 Description
 求Sn=1!+2!+3!+4!+5!+…+n!之值，其中n是一个数字（n<12)
@@ -8,6 +8,7 @@ Output
 输出Sn的值
 Sample Input 1                          Sample Output 1
        5                                    153*/
+
 import java.util.Scanner;
 
 public class testDemo03 {
@@ -17,7 +18,7 @@ public class testDemo03 {
         int sum = 0;
         int a = 1;
         int b = n;
-        for(int i = 1; i <= n; i++) {
+        for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= b; j++) {
                 a *= j;
             }

@@ -1,4 +1,4 @@
-package Test;
+package com.Test;
 /*水仙花数
 Description
 春天是鲜花的季节，水仙花就是其中最迷人的代表，数学上有个水仙花数，
@@ -14,6 +14,7 @@ Sample Input 1                      Sample Output 1
      100 371                           153 370 371
  Sample Input 2                     Sample Output 2
      100 101                             no*/
+
 import java.util.Scanner;
 
 public class testDemo02 {
@@ -22,16 +23,16 @@ public class testDemo02 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int count = 0;
-        for(int i = a; i <=b; i ++){
+        for (int i = a; i <= b; i++) {
             int ge = i % 10;
             int shi = i / 10 % 10;
             int bai = i / 10 / 10 % 10;
-            if(ge*ge*ge + shi*shi*shi + bai*bai*bai == i){
+            if (ge * ge * ge + shi * shi * shi + bai * bai * bai == i) {
                 System.out.print(i + " ");
-                count ++;
+                count++;
             }
         }
-        if(count == 0){
+        if (count == 0) {
             System.out.println("no");
         }
     }

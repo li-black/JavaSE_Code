@@ -1,4 +1,4 @@
-package Test;
+package com.Test;
 /*计算Sn
 Description
 求Sn=a+aa+aaa+…+aa…aaa（有n个a）之值，其中a是一个数字。例如：2+22+222+2222+22222（n=5）
@@ -9,6 +9,7 @@ Output
 Sample Input 1                              Sample Input 1
        2
        5                                        24690*/
+
 import java.util.Scanner;
 
 public class testDemo04 {
@@ -18,7 +19,7 @@ public class testDemo04 {
         int n = sc.nextInt();
         int sum = 0;
         int b = a;
-        for(int i = 1; i <= n; i ++){
+        for (int i = 1; i <= n; i++) {
             sum += b;
             b = a + b * 10;
         }
