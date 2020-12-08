@@ -1,5 +1,4 @@
 package com.Test;
-
 /*小明的选择
 Description
 小明受邀参加朋友的晚会Part，形式为自助餐，
@@ -15,5 +14,26 @@ Sample Input 1                              Sample Output 1
       1                                            2
 Hint
 如果只有编号1的食物，小明可以选择编号1的食物，也可以不选择任何食物，共两种选择方案*/
+
+import java.util.Scanner;
+
 public class testDemo03 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[] arr = new int[n + 1];
+        if (n < 3 && n > 0) {
+            arr[0] = 2;
+            arr[1] = 3;
+            System.out.println(arr[n - 1]);
+        } else if (n >= 3) {
+            arr[0] = 2;
+            arr[1] = 3;
+            for (int i = 2; i < arr.length; i++) {
+                arr[i] = arr[i - 1] + arr[i - 2];
+            }
+            System.out.println(arr[n - 1]);
+        } else {
+        }
+    }
 }
