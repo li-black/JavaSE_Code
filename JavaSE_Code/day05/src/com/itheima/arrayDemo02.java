@@ -1,5 +1,6 @@
 package com.itheima;
 
+//定义二维数组并且遍历求和
 public class arrayDemo02 {
     public static void main(String[] args) {
         int sum = 0;

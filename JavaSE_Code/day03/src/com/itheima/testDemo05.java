@@ -1,4 +1,5 @@
 package com.itheima;
+//定义一个长度为5的数组并手动输入5个数计算并打印数组的和
 
 import java.util.Scanner;
 

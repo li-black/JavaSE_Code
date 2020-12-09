@@ -1,5 +1,6 @@
 package com.itheima;
 
+//遍历打印arr,令arr2等于arr并修改arr中的值,遍历打印arr2
 public class testDemo01 {
     public static void main(String[] args) {
         int[] arr = new int[3];

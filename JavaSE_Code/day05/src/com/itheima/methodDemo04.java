@@ -1,4 +1,5 @@
 package com.itheima;
+//键盘输入两个数定义bigger方法返回最大值并打印
 
 import java.util.Scanner;
 

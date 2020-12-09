@@ -1,4 +1,5 @@
 package com.itheima;
+//用随机数创建长度为6的数组并且遍历数组输出总和
 
 import java.util.Random;
 

@@ -1,5 +1,6 @@
 package com.itheima;
 
+//定义eat方法并调用
 public class methodDemo01 {
     public static void main(String[] args) {
         eat();

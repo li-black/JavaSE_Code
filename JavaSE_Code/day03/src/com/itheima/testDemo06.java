@@ -1,4 +1,5 @@
 package com.itheima;
+//查找数组中的数如果没有输出-1,如果查找到输出数字的索引
 
 import java.util.Scanner;
 

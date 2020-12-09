@@ -1,5 +1,6 @@
 package com.itheima;
 
+//找出并打印数组arr的最大值和最小值
 public class testDemo04 {
     public static void main(String[] args) {
         int[] arr = {15, 85, 416, 1662, 1385, 223, 5235, 135354};

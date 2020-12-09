@@ -1,4 +1,5 @@
 package com.itheima;
+//输入年月日输出这一年已经过了几天
 
 import java.util.Scanner;
 

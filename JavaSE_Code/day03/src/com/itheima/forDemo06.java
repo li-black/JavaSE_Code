@@ -1,4 +1,5 @@
 package com.itheima;
+//算出一个数是几位数并且将它倒着输出
 
 import java.util.Scanner;
 

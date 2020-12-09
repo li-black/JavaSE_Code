@@ -1,4 +1,5 @@
 package com.itheima;
+//定义一个长度为n的数组并且手动输入数据,输入要查找的数，最后输出查找的数是第几位
 
 import java.util.Scanner;
 

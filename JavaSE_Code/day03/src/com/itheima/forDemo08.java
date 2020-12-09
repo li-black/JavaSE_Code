@@ -1,4 +1,5 @@
 package com.itheima;
+//猜数字游戏
 
 import java.util.Random;
 import java.util.Scanner;

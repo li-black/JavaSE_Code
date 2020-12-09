@@ -1,5 +1,6 @@
 package com.itheima;
 
+//定义int类型的数组arr01和byte类型的数组arr02
 public class arrayDemo02 {
     public static void main(String[] args) {
         int[] arr01 = new int[5];

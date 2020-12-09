@@ -1,5 +1,6 @@
 package com.itheima;
 
+//找出1到10之间的偶数
 public class forDemo01 {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {

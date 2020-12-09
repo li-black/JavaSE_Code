@@ -1,5 +1,6 @@
 package com.itheima;
 
+//算出1到100之间能被3整除的数的个数
 public class forDemo05 {
     public static void main(String[] args) {
         int count = 0;

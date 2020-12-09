@@ -1,4 +1,5 @@
 package com.itheima;
+//输入数据不在0到100之间输出请重新输入,若在输出输入正确
 
 import java.util.Scanner;
 

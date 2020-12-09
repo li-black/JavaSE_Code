@@ -1,5 +1,6 @@
 package com.itheima;
 
+//定义数组arr01,之后定义数组arr02,将arr01中中的奇数放在左边,偶数放在右边
 public class arrayDemo11 {
     public static void main(String[] args) {
         int[] arr01 = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};

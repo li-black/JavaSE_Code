@@ -1,5 +1,6 @@
 package com.itheima;
 
+//算出1到10之间的乘积
 public class forDemo02 {
     public static void main(String[] args) {
         int product = 1;

@@ -1,4 +1,5 @@
 package com.itheima;
+//定义一个长度为n的数组并且手动输入数据,最后遍历数组并输出
 
 import java.util.Scanner;
 

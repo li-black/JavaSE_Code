@@ -1,8 +1,8 @@
 package com.itheima;
+//方法重载判断输入的两个数是否相等
 
 import java.util.Scanner;
 
-//方法重载
 public class methodDemo05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

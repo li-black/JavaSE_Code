@@ -1,4 +1,5 @@
 package com.itheima;
+//定义方法print能够将输入的n到m区间的奇数全部输出,并在main方法中掉用print方法,数值来自键盘录入
 
 import java.util.Scanner;
 

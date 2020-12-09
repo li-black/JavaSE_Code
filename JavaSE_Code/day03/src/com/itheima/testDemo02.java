@@ -1,5 +1,6 @@
 package com.itheima;
 
+//用for循环遍历打印数组arr
 public class testDemo02 {
     public static void main(String[] args) {
         int[] arr = {11, 12, 13, 14, 15};

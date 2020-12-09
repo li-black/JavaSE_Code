@@ -1,4 +1,5 @@
 package com.itheima;
+//定义check方法判断奇偶数,并且键盘输入调用check方法
 
 import java.util.Scanner;
 
