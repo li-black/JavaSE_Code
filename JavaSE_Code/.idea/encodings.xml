@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/ChunDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/CountDemo01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/IfDemo01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/IfDemo02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/IfTest01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/MyHelloWorld.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/OperatorTest01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/SwitchDemo01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/Test01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day01/src/com/itheima/ThreePeoplelvup.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day02/src/com/itheima/ForDemo01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day02/src/com/itheima/IfDemo01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day02/src/com/itheima/IfDemo02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day02/src/com/itheima/TestDemo01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day02/src/com/itheima/TestDemo03.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day02/src/com/itheima/ThreeDemo01.java" charset="GBK" />
+  </component>
+</project>
