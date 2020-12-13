@@ -1,5 +1,6 @@
 package com.work;
 
+//两数互换
 public class ChangeDemo {
     public static void main(String[] args) {
         int a = 10;
