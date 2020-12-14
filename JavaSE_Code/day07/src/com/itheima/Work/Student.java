@@ -1,4 +1,4 @@
-package com.itheima.HomeWork;
+package com.itheima.Work;
 
 public class Student {
     private String name;
